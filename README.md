@@ -40,11 +40,6 @@ Je conçois et réalise des **infrastructures complètes**, de l'architecture r�
 
 ---
 
-## 📈 Statistiques GitHub
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=great-pvst\&show_icons=true\&theme=dark)
-
----
-
 ## 📚 Projets bientôt disponibles
 ### 🌐 Infrastructure et réseaux
   * Simulation d'architecture multisite
